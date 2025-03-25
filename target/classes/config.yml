@@ -1,0 +1,8 @@
+# config.yml
+baby-sneeze-interval: 10  # Time in seconds between baby panda sneeze checks
+baby-sneeze-chance: 0.6 # 60% chance for baby pandas to sneeze
+adult-sneeze-chance: 0.06 # 6% chance for adult pandas to sneeze each interval
+
+slimeball-drop-chance: 0.142857  # 1/7 chance to drop slimeballs when sneezing
+slimeball-min-drop: 1            # Minimum slimeballs dropped
+slimeball-max-drop: 2            # Maximum slimeballs dropped
